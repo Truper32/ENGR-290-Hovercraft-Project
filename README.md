@@ -1,7 +1,7 @@
 # ENGR 290 - Hovercraft Project
 
-##Fall 2020
+## Fall 2020
 
-###Concordia University 
+### Concordia University 
 
 Hovercraft Project
